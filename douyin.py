@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 from contextlib import closing
 import requests, json, time, re, os, sys, time
-
+#我只是想随便改一下
 class DouYin(object):
 	def __init__(self):
 		"""
